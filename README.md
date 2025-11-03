@@ -1,3 +1,2 @@
 # DSC180A-Methodology-3
-Cecilia Lin
-yul234@ucsd.edu
+Cecilia Lin and Peter Liu
